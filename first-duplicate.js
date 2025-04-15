@@ -23,3 +23,4 @@ function firstDuplicate(nums) {
 
 // Test
 console.log(firstDuplicate([2, 1, 3, 5, 3, 2])); // 3
+console.log(firstDuplicate([1, 2, 3])); // -1
